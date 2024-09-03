@@ -35,6 +35,21 @@ The **Composite Design Pattern** is used to treat individual and composite compo
 - **Mandatory Components:** The system ensures that all required components for a composite component are present.
 - **Pricing Rules:** Validates that the configuration does not exceed or fall below certain pricing thresholds.
 
+## Technologies Used
+- **C#**: The primary programming language used to implement the system.
+- **.NET Core**: The framework that provides the runtime and libraries for building and running the application.
+- **Visual Studio 2022**: The integrated development environment (IDE) used for development.
+- **Design Patterns**: Specifically, the Composite Design Pattern is employed in this system.
+
+## How to Run the Project
+1. **Clone the Repository**: Clone the project repository from the version control system.
+    ```bash
+    git clone https://github.com/your-repo-url/product-configuration-system.git
+    ```
+2. **Open in Visual Studio**: Open the solution file (`.sln`) in Visual Studio 2022.
+3. **Build the Solution**: Build the solution by selecting `Build > Build Solution` from the menu.
+4. **Run the Application**: Run the application using the `Start` button or by pressing `F5`.
+
 ## Design
 
 ### Composite Design Pattern
@@ -43,6 +58,9 @@ The **Composite Design Pattern** is used to treat individual and composite compo
 
 ### Class Diagram
 A visual representation of the system's structure, showing the relationships between components and composite components.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 # Environment
 The project builds and runs with Visual Studio Community 2022.
