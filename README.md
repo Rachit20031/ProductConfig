@@ -56,6 +56,8 @@ The **Composite Design Pattern** is used to treat individual and composite compo
 - **Hierarchy:** Supports nested composite components, allowing for complex product structures.
 
 ### Class Diagram
+![class diagram](https://github.com/Rachit20031/ProductConfig/blob/master/Images/classDiagram.png)
+<br>
 A visual representation of the system's structure, showing the relationships between components and composite components.
 
 ## Environment
