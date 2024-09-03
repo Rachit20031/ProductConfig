@@ -1,7 +1,7 @@
 # Product Configuration System
 
 ## Overview
-**Product Configuration System** is a software application designed to manage and validate complex product configurations using the Composite Design Pattern. The system allows users to create individual components, group them into composite components, and validate product configurations based on mandatory components and pricing rules.
+**Product Configuration System** is a software application designed to manage and validate complex product configurations using the Composite Design Pattern. The system allows users to create individual components, group them into composite components, and validate product configurations based on mandatory components and pricing rules. The system also allows to calculate the price of product using composite design pattern.
 
 The **Composite Design Pattern** is used to treat individual and composite components uniformly, allowing flexibility in defining and validating complex product structures. This pattern ensures that both individual parts (like a CPU) and composite parts (like a motherboard) can be handled consistently.
 
