@@ -1,7 +1,7 @@
 # Product Configuration System
 
 ## Overview
-**Product Configuration System** is a software application designed to manage and validate complex product configurations using the Composite Design Pattern. The system allows users to create individual components, group them into composite components, and validate product configurations based on mandatory components and pricing rules. The system also allows to calculate the price of product using composite design pattern.
+**Product Configuration System** is a software application designed to manage and validate complex product configurations using the Composite Design Pattern. The system allows users to create individual components, group them into composite components, and validate product configurations based on mandatory components and pricing rules. The system also allows for calculating the price of a product using the Composite Design Pattern.
 
 The **Composite Design Pattern** is used to treat individual and composite components uniformly, allowing flexibility in defining and validating complex product structures. This pattern ensures that both individual parts (like a CPU) and composite parts (like a motherboard) can be handled consistently.
 
@@ -38,8 +38,7 @@ The **Composite Design Pattern** is used to treat individual and composite compo
 ## Technologies Used
 - **C#**: The primary programming language used to implement the system.
 - **.NET Core**: The framework that provides the runtime and libraries for building and running the application.
-- **Visual Studio 2022**: The integrated development environment (IDE) used for development.
-- **Design Patterns**: Specifically, the Composite Design Pattern is employed in this system.
+- **MSTest**: Used for testing the validation logic and ensuring the correctness of the implementation.
 
 ## How to Run the Project
 1. **Clone the Repository**: Clone the project repository from the version control system.
@@ -59,8 +58,5 @@ The **Composite Design Pattern** is used to treat individual and composite compo
 ### Class Diagram
 A visual representation of the system's structure, showing the relationships between components and composite components.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-# Environment
+## Environment
 The project builds and runs with Visual Studio Community 2022.
